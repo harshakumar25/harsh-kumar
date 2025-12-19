@@ -39,13 +39,13 @@ Cloud-Native • Web Security • Open Source
 ## ⚙️ Technical Skills
 
 ### 🌐 Frontend Development
-- Semantic HTML5 & accessibility basics  
-- Responsive layouts using CSS (Flexbox)  
-- JavaScript (ES6+, DOM manipulation)  
+- Semantic HTML5 & accessibility expert  
+- Responsive layouts 
+- JavaScript   
 
 ### ☕ Programming & DSA
-- Java (arrays, strings, recursion, basic data structures)  
-- Go (basics, CLI programs – learning)  
+- Java   
+- Go (basics, CLI programs)  
 - Algorithmic thinking & structured problem solving  
 
 ### ☁️ Cloud-Native & DevOps (Learning)
